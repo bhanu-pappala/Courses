@@ -1,0 +1,6 @@
+import tensorflow as tf
+import numpy as np
+from tensorflow import keras
+
+def house_model(y_new):
+    
